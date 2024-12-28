@@ -1,4 +1,16 @@
-# Authentication Service Application
+# ShakibAuth
+
+## Support
+
+- [x] Authentication
+- [x] Authorization
+- [x] User Management
+- [x] Role-Based Access Control
+- [x] Password Reset
+- [x] Email Verification
+- [x] Two-Factor Authentication
+- [x] Social Login (Google, Facebook, etc.)
+- [x] API Documentation
 
 ## Project Overview
 
@@ -41,9 +53,9 @@ Ensure the following environment variables are set in your `.env` file:
 - `MONGODB_URI`: The connection string for your MongoDB database.
 - `JWT_SECRET`: The secret key for signing JWT tokens.
 
-## Contributing
+## Give a star
 
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
+If you like this project, please give it a star.
 
 ## License
 
